@@ -13,8 +13,12 @@ function App() {
       <Skills />
       <Contact />
       <Footer />
+      
     </>
+    
   );
+  
 }
+
 
 export default App;
